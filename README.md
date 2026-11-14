@@ -1,8 +1,8 @@
-# Binderlog test files
+# Binder151 test files
 
-Downloads for the Binderlog test app (the code is private). The app fetches these itself.
+Downloads for the Binder151 test app (the code is private). The app fetches these itself.
 
-- `Binderlog-Test.apk` - the Android test app
+- `Binder151-Test.apk` - the Android test app
 - recognition files (`model_fp32.onnx`, `index.*`, `meta.json`, `numbers.json`, `checks.json`, `cards.json`)
 
 `model_fp32.onnx` is the image encoder of Google's SigLIP 2 (ViT-B-32-SigLIP2-256), licensed under the
