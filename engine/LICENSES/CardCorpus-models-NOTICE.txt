@@ -1,0 +1,25 @@
+CardCorpus Scanner: weights and reference index
+Copyright 2026 The CardCorpus Authors
+
+models/matcher.safetensors is a fine-tune of DINOv3 ViT-S/16 (Meta
+Platforms, Inc.) and is distributed under the DINOv3 License
+(LICENSES/DINOv3-License.md). Built with DINOv3.
+
+models/picker.safetensors is a fine-tune of Perception Encoder PE-Core
+S/16 (Meta Platforms, Inc.), licensed under the Apache License 2.0.
+
+models/detector.safetensors starts from timm's MobileNetV4-small ImageNet
+weights (Apache License 2.0).
+
+models/language-classifier.onnx is a fine-tune of timm's LCNet-050
+ImageNet weights (Apache License 2.0).
+
+Everything else here is the CardCorpus Authors' own work, under the
+Apache License 2.0 (LICENSES/Apache-2.0.txt), except the reference index
+(index/), under CC BY 4.0. LICENSE.md lists each file's licence.
+
+Pokémon and Pokémon character names are trademarks of Nintendo, Creatures
+and GAME FREAK. Card pictures and text are © The Pokémon Company,
+Nintendo, Creatures, GAME FREAK and, for older cards, Wizards of the
+Coast. This project is not produced, endorsed, sponsored or supported by,
+or affiliated with, any of them.
